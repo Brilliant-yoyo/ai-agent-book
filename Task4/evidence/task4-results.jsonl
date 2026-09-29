@@ -1,0 +1,2 @@
+{"_parser": "builtin_json", "timestamp": "2026-07-17T10:22:31Z", "level": "INFO", "message": "Agent started task planning"}
+{"_parser": "pipe_parser", "timestamp": "2026-07-17T10:23:01Z", "level": "INFO", "module": "agent.planner", "step": 3, "message": "Generated plan with 5 actions"}

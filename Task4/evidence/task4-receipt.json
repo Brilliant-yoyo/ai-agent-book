@@ -1,0 +1,28 @@
+{
+  "experiment": "Chapter 5 Adaptive Log Parser (online quick mode)",
+  "run_at": "2026-09-29T12:15:27.017616+00:00",
+  "provider": "DeepSeek",
+  "model": "deepseek-chat",
+  "mode": "online --quick",
+  "workflow": [
+    "detect_parse_failure",
+    "llm_generate_code",
+    "automatic_tests",
+    "hot_reload",
+    "persist_and_reuse"
+  ],
+  "test_samples": 3,
+  "test_samples_passed": 3,
+  "generated_parser": "generated/pipe_parser.py",
+  "generated_parser_sha256": "f07fed8e862858949327d1f79db6d033165b81cf1ab3a2eb0676d6892435925c",
+  "persisted_reload": [
+    "pipe_parser"
+  ],
+  "result_records": 2,
+  "status": "passed",
+  "success_evidence": {
+    "auto_test": "自动测试通过",
+    "hot_reload": "已热更新注册解析器 pipe_parser",
+    "persistence": "持久化复用（混合格式全部解析）：成功"
+  }
+}
