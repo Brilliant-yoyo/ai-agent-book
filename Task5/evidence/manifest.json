@@ -1,0 +1,19 @@
+{
+  "experiment": "Task5 / Chapter 10 experiment 10-1",
+  "status": "passed",
+  "artifacts": {
+    "README.md": "bffa2ed52547a6501371d78ee4c5ebb409c7049500aa4281736a44700e31c83c",
+    "evidence/attempt1-incomplete.json": "fe54560cf296e2bc7ea599477317eca8d02b00e60a134ccf60f48d2a814cc76d",
+    "evidence/attempt1-incomplete.log": "74839ecb8131ec772004a6a69025b60f86a81321c4d0d883f4c027f3e6e58405",
+    "evidence/attempt2-incomplete.json": "eaa0ec21ea07c8a5905bb0572ad5a68e9b58e1a714c4cb0e126f04fd7cf7788b",
+    "evidence/attempt2-incomplete.log": "eefa563ca817ad5fadfa9ecb3efeb146d954bd84d0d803e18fb8cac1081cb7c6",
+    "evidence/run-receipt.json": "3e5bd63125dcd503407bef0e9b210853ae652298fd795417b20538ff0b2ba679",
+    "evidence/run.log": "669e682518e1c0bd006a192f77e827b7514a3193635b2b0e2571336713400c07",
+    "images/run-log-excerpt.png": "bd85e7ef07a7b21c9b34e149a9c057981a3e99ed9d3db4b40ece28642cf2f4c9",
+    "requirements.txt": "46db5b506d3f73bebc43d670a04651df31046dd2128233d4977500cb7209d041",
+    "run_experiment.py": "36e1d18f55550cb66b69d2aaff61c921e86bbcff23d669837465d906d2c206b2",
+    "src/orchestrator.py": "7f48295e9cd169f73c5455b7e2593ba3439377a63a7a4aa24274fc66b56ef91c",
+    "src/roles.py": "dec38b49d0643e00bc503dece7e75f651d9097ab7a0ae71545b8e126070f62b9",
+    "src/tools.py": "5fd7511d85a28545bc389cb85c84f4219e10ccfabd3729834ea71b57c25cca02"
+  }
+}
